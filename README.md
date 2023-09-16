@@ -2,7 +2,7 @@
 
 ## Why
 
-Wanted a cheap soldering smoke extractor with exit far for the extraction.
+Wanted a cheap soldering smoke extractor with an exit far for the extraction.
 
 ## How it looks
 
